@@ -25,7 +25,7 @@
 
 ## TO RUN THE GULP 4 TASKS FROM COMMAND-LINE:
 
-- A the time Gulp was @ 4.0.0,
+- At the time Gulp was @ 4.0.0,
   - but some had may still have had older version of gul-cli installed globally
 
 - Please make sure the local folder and global version of gulp-cli are the same
