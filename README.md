@@ -28,7 +28,7 @@
 - At the time Gulp was @ 4.0.0,
   - but some had may still have had older version of gul-cli installed globally
 
-- Please make sure the local folder and global version of gulp-cli are the same
+- If you have global packages, make sure the local folder and global version of gulp-cli are the same
 
   - Run the following code :
     - to get the environment versions of gulp-cli in alignment with all packages that come with gulp.
